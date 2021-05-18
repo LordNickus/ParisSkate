@@ -4,19 +4,19 @@ const RedesSocialesTop = ()=> {
 
     
         var redesSociales=[
-            { logoImagen : 'imagenes/Yout.png',
+            { logoImagen : 'Imagenes/Yout.png',
               link :'https://www.youtube.com/results?search_query=skateshop',
               marcaImagen: 'Youtube',
             },           
-            { logoImagen : 'imagenes/Face.png',
+            { logoImagen : 'Imagenes/Face.png',
               link :'https://www.facebook.com/parisskateshop',
               marcaImagen: 'Facebook', 
             },
-            { logoImagen : 'imagenes/Inst.png',
+            { logoImagen : 'Imagenes/Inst.png',
               link :'https://www.instagram.com/parisskateshop/',
               marcaImagen: 'Instagram',
             },
-            { logoImagen : 'imagenes/Wats.png',
+            { logoImagen : 'Imagenes/Wats.png',
               link :'@parisskateshop',
               marcaImagen: 'Wassap',
             },

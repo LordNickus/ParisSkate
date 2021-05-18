@@ -28,62 +28,62 @@ const useStyles = makeStyles((theme: Theme) =>
 );
 const fotosSkate1 = [
        {
-         img: 'imagenes/foto_01.jpeg',
+         img: 'Imagenes/foto_01.jpeg',
          title: 'Zapatillas',
          author: 'ParisSkate',
        },
        {
-        img: 'imagenes/foto_012.jpeg',
+        img: 'Imagenes/foto_012.jpeg',
         title: 'Zapatillas',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_013.jpeg',
+        img: 'Imagenes/foto_013.jpeg',
         title: 'Zapatillas',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_02.jpeg',
+        img: 'Imagenes/foto_02.jpeg',
         title: 'Tablas',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_03.jpeg',
+        img: 'Imagenes/foto_03.jpeg',
         title: 'Tablas',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_04.jpeg',
+        img: 'Imagenes/foto_04.jpeg',
         title: 'Tablas',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_05.jpeg',
+        img: 'Imagenes/foto_05.jpeg',
         title: 'Tablas',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_06.jpeg',
+        img: 'Imagenes/foto_06.jpeg',
         title: 'Tablas',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_07.jpeg',
+        img: 'Imagenes/foto_07.jpeg',
         title: 'Accesorios',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_08.jpeg',
+        img: 'Imagenes/foto_08.jpeg',
         title: 'Tablas lisas',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_09.jpeg',
+        img: 'Imagenes/foto_09.jpeg',
         title: 'Accesorios',
         author: 'ParisSkate',
       },
       {
-        img: 'imagenes/foto_10.jpeg',
+        img: 'Imagenes/foto_10.jpeg',
         title: 'Tablas',
         author: 'ParisSkate',
       },
